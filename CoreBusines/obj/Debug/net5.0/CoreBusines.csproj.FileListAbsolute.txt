@@ -1,0 +1,12 @@
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\bin\Debug\net5.0\CoreBusines.deps.json
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\bin\Debug\net5.0\CoreBusines.dll
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\bin\Debug\net5.0\ref\CoreBusines.dll
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\bin\Debug\net5.0\CoreBusines.pdb
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\obj\Debug\net5.0\CoreBusines.csproj.AssemblyReference.cache
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\obj\Debug\net5.0\CoreBusines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\obj\Debug\net5.0\CoreBusines.AssemblyInfoInputs.cache
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\obj\Debug\net5.0\CoreBusines.AssemblyInfo.cs
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\obj\Debug\net5.0\CoreBusines.csproj.CoreCompileInputs.cache
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\obj\Debug\net5.0\CoreBusines.dll
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\obj\Debug\net5.0\ref\CoreBusines.dll
+C:\Users\francisco.oliveira\source\repos\RevisaoSemestre\CoreBusines\obj\Debug\net5.0\CoreBusines.pdb
